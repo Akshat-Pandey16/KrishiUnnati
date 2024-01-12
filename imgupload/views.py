@@ -4,7 +4,6 @@ from django.shortcuts import render,redirect,HttpResponseRedirect
 from .forms import ImageUploadForm
 from .test01 import *
 from django.contrib import messages
-from .connection import *
 import datetime
 
 # Create your views here.
