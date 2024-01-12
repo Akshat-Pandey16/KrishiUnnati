@@ -36,7 +36,7 @@ def detail(request):
 
 
 def map(request):
-    return render(request, 'map.html')
+    return render(request, 'Map.html')
 
 def upload(request):
     return render(request, 'upload.html')
@@ -113,7 +113,7 @@ def logout_user(request):
 
 
 def map(request):
-    return render(request, 'map.html')
+    return render(request, 'Map.html')
 
 def voice(request):
      if request.method == "POST":
