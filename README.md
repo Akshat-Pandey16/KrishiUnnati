@@ -69,9 +69,9 @@ Through the web-app we provide online tele-consultation services as well as offl
 
 ## Contributors
 
+[Akshat Pandey](https://github.com/Akshat-Pandey16) <br>
+[Sanskar Dwivedi](https://github.com/Knighthawk-Leo) <br>
+[Yash Sakre](https://github.com/Yash-Sakre) <br>
 [Shubhankar Tiwary](https://www.linkedin.com/in/shubhankar10) <br>
-[Akshat Pandey](https://www.linkedin.com/in/akshat-pandey-001a53147) <br>
 [Shreoshi Saharoy](https://www.linkedin.com/in/shreoshi-saharoy) <br>
 [Disha Jain](https://www.linkedin.com/in/dishajain1224) <br>
-[Yash Sakre](https://www.linkedin.com/in/yash-sakre) <br>
-[Sanskar Dwivedi](https://www.linkedin.com/in/sanskar-dwivedi-a20201200) <br>
