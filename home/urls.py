@@ -1,8 +1,6 @@
-
-from .views import mainpage
-from django.urls import path,include
+from django.urls import path
 from . import views
-from .views import *
+from .views import index, home, register, login_user, logout_user, voice, GovtScheme
 
 urlpatterns = [
     # path(' ', mainpage.as_view(), name="index"),

@@ -1,10 +1,7 @@
-from contextlib import redirect_stderr
-from xml.dom.minidom import NamedNodeMap
-from django.shortcuts import render,redirect,HttpResponseRedirect
+from django.shortcuts import render,redirect
 from .forms import ImageUploadForm
-from .test01 import *
+from .test01 import identify_plant
 from django.contrib import messages
-import datetime
 
 # Create your views here.
 def imgupload(request):

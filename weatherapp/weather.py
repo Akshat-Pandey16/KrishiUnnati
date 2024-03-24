@@ -1,4 +1,4 @@
-'''import urllib, json
+"""import urllib, json
 import urllib.request
 from geopy.geocoders import Nominatim
 
@@ -8,8 +8,8 @@ apikey="6350f4054e660ee8b2e95d58c038accb"
 
 
 
-           
-city=str(input("Enter City Name"))            
+
+city=str(input("Enter City Name"))
 geolocator = Nominatim(user_agent="MyApp")
 location = geolocator.geocode(city)
 x=location.latitude
@@ -35,7 +35,8 @@ for x in Json_Data_forecast:
     for key,value in recursive_items(x):
         print(key,value)
 
-'''
+"""
+
 
 def recursive_items(dictionary):
     for key, value in dictionary.items():

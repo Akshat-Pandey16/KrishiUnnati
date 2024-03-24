@@ -1,15 +1,12 @@
 
 from django.shortcuts import render
-from django.http import HttpResponse
 from django.views.generic import TemplateView
-from django.shortcuts import render, redirect
+from django.shortcuts import redirect
 from django.contrib import messages
-from django.contrib.auth.models import User, auth
+from django.contrib.auth.models import auth
 from .models import NewUser
 import speech_recognition as sr
 
-
-# Create your views here.
 
 class mainpage(TemplateView):
     Template_view = "index.html"
